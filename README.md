@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sofisalcedo
 - 👀 I’m interested in web development and design
-- 🌱 I’m currently learning html,css and JavaScript
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on the creation of websites and ilustrations
 - 📫 How to reach me: ka2.0.0.0.1@hotmail.com
 
